@@ -194,7 +194,7 @@
               <li><span class="color1"></span>4% Research & Development</li>
               <li><span class="color2"></span>4% Marketing Fund</li>
               <li><span class="color3"></span>4% Airdrop</li>
-              <li><span class="color5"></span>84% Liquidity Pool</li>
+              <li><span class="color5"></span>88% Liquidity Pool</li>
             </ul>
           </div>
         </div>
@@ -205,7 +205,7 @@
                 <div data-lcolor="#f8c04e">4</div>
                 <div data-lcolor="#61f89f">4</div>
                 <div data-lcolor="#5ad6f8">4</div>
-                <div data-lcolor="#f85d77">84</div>
+                <div data-lcolor="#f85d77">88</div>
               </div>
               <div class="graph-logo">
                 <img src="{{ asset('images/graph-logo.png') }}" alt="cryptoz">

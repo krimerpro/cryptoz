@@ -1,18 +1,15 @@
 <!doctype html>
-<html lang="en-US" class="no-js no-svg">
+<html lang="en">
   <head>
      @include('includes.head')
   </head>
 
   <body>
-     <header class="row">
-         @include('includes.header')
-     </header>
 
-     @yield('content')
+    @include('includes.header')
 
-     <footer class="row">
-         @include('includes.footer')
-     </footer>
+    @yield('content')
+
+    @include('includes.footer')
   </body>
 </html>

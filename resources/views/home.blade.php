@@ -152,7 +152,7 @@
               </div>
               <div class="backend">
                 <div class="services-detail">
-                    <div class="ser-subtitle">Free BUSD rewards for holders</div>
+                    <div class="ser-subtitle">Free 4% BUSD rewards for holders on each transaction</div>
                 </div>
               </div>
             </div>

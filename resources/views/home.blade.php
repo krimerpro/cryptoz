@@ -42,7 +42,7 @@
                 </div>
             <ul>
               <li>Low Tax Transaction</li>
-              <li>Free BUSD Rewards for Holders</li>
+              <li>Free 4% BUSD Rewards for Holders on Each Transaction</li>
               <li>Trusted Team</li>
               <li>Scalable Blockchain with High Tech</li>
             </ul>

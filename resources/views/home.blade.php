@@ -12,7 +12,7 @@
               <h1 class="banner-title"><span>Platform for</span> <br>The crypto Industry</h1>
               <p>The most reliable blockchain with BUSD rewards</p>
               <a href="https://t.me/CryptozNetworkPortal" class="btn big-width btn-color">JOIN US</a>
-              <a href="https://poocoin.app/tokens/" class="btn big-width btn-color">CHART</a>
+              <a href="https://poocoin.app/tokens/0x31ad5482b507bfe54402aa4006db2d0fee7d3ac6" class="btn big-width btn-color">CHART</a>
             </div>
           </div>
           <div class="col-lg-6 p-0">
